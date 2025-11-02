@@ -1,6 +1,6 @@
 ## An Improved, Strong Baseline for Pre-Trained Large Language Models as Task-Oriented Dialogue Systems 
 
-This is the code for the Findings of the EMNLP 2025 paper: An Improved, Strong Baseline for Pre-Trained Large Language Models as Task-Oriented Dialogue Systems 
+This is the code for the Findings of the EMNLP 2025 paper: [An Improved, Strong Baseline for Pre-Trained Large Language Models as Task-Oriented Dialogue Systems](https://aclanthology.org/2025.findings-emnlp.605/)
 
 ### Installation
 
