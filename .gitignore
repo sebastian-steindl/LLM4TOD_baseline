@@ -1,0 +1,10 @@
+mwzeval/__pycache__/*
+__pycache__
+openai_key.txt
+wandb
+hf_cache/
+my-env/
+*pkl
+.venv
+utils/data_analysis/*.txt
+utils/data_analysis/*.log
